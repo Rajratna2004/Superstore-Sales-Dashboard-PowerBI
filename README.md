@@ -45,5 +45,7 @@ The dashboard includes KPIs, drill-downs, slicers, and segment-wise analysis for
 ---
 
 ## **ScreenShots**
+<img <img width="1282" height="715" alt="Screenshot 2025-11-25 093944" src="https://github.com/user-attachments/assets/149ae2dc-758a-48d6-a3b7-21fed9b56326" />
+ />
 
 
