@@ -37,15 +37,15 @@ The dashboard includes KPIs, drill-downs, slicers, and segment-wise analysis for
 
 ## 📁 **Project Files**
 
-- `[superstore_sales_dashboard.pbix](https://github.com/Rajratna2004/Superstore-Sales-Dashboard-PowerBI/blob/main/Superstoresales%20project.pbix)` – Main Power BI dashboard file  
-- `[README.md](https://github.com/Rajratna2004/Superstore-Sales-Dashboard-PowerBI/blob/main/README.md)` – Documentation  
+- `https://github.com/Rajratna2004/Superstore-Sales-Dashboard-PowerBI/blob/main/Superstoresales%20project.pbix` – Main Power BI dashboard file  
+- `https://github.com/Rajratna2004/Superstore-Sales-Dashboard-PowerBI/blob/main/README.md` – Documentation  
 - `https://github.com/Rajratna2004/Superstore-Sales-Dashboard-PowerBI/blob/main/SuperStore_Sales_Dataset.csv` - CSV File
 
 
 ---
 
 ## **ScreenShots**
-<img <img width="1282" height="715" alt="Screenshot 2025-11-25 093944" src="https://github.com/user-attachments/assets/149ae2dc-758a-48d6-a3b7-21fed9b56326" />
- />
+<img width="1282" height="715" alt="Screenshot 2025-11-25 093944" src="https://github.com/user-attachments/assets/149ae2dc-758a-48d6-a3b7-21fed9b56326" />
+
 
 
